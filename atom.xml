@@ -6,7 +6,7 @@
   <link href="https://yjunuser.github.io/atom.xml" rel="self"/>
   
   <link href="https://yjunuser.github.io/"/>
-  <updated>2021-04-23T10:04:03.944Z</updated>
+  <updated>2021-04-23T10:07:21.812Z</updated>
   <id>https://yjunuser.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://yjunuser.github.io/2021/04/23/test/"/>
+    <id>https://yjunuser.github.io/2021/04/23/test/</id>
+    <published>2021-04-23T10:06:26.000Z</published>
+    <updated>2021-04-23T10:07:21.812Z</updated>
+    
+    
+    
+    
+    <category term="Diary" scheme="https://yjunuser.github.io/categories/Diary/"/>
+    
+    
+    <category term="PS3" scheme="https://yjunuser.github.io/tags/PS3/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
