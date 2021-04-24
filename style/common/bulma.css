@@ -16,7 +16,9 @@
     transform: rotate(359deg);
   }
 }
-
+table {
+  background: #f8f8f8 i !important;
+}
 .delete, .modal-close, .button, .file, .breadcrumb, .pagination-previous,
 .pagination-next,
 .pagination-link,
@@ -2020,7 +2022,7 @@ fieldset[disabled] .button {
 .content figure {
   margin-left: 2em;
   margin-right: 2em;
-  text-align: center;
+  /* text-align: center; */
 }
 
 .content figure:not(:first-child) {
@@ -3206,7 +3208,7 @@ a.tag:hover {
   max-width: 100%;
 }
 
-.number {
+/* .number {
   align-items: center;
   background-color: whitesmoke;
   border-radius: 290486px;
@@ -3219,7 +3221,7 @@ a.tag:hover {
   padding: 0.25rem 0.5rem;
   text-align: center;
   vertical-align: top;
-}
+} */
 
 /* Bulma Form */
 .input, .textarea, .select select {
