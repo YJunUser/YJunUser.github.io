@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xiaoyao日志</title>
+  
+  <subtitle>努力且幸运</subtitle>
+  <link href="https://yjunuser.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yjunuser.github.io/"/>
+  <updated>2021-04-24T04:32:23.759Z</updated>
+  <id>https://yjunuser.github.io/</id>
+  
+  <author>
+    <name>姚伯骏</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://yjunuser.github.io/2021/04/24/helloworld/"/>
+    <id>https://yjunuser.github.io/2021/04/24/helloworld/</id>
+    <published>2021-04-24T04:32:07.695Z</published>
+    <updated>2021-04-24T04:32:23.759Z</updated>
+    
+    <content type="html"><![CDATA[<h1>欢迎来到我的博客</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;欢迎来到我的博客&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
