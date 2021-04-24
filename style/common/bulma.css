@@ -19,6 +19,15 @@
 table {
   background: #f8f8f8 i !important;
 }
+pre .variable, pre .attribute, pre .tag, pre .name, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+  color: #c82829;
+}
+pre .number, pre .preprocessor, pre .built_in, pre .builtin-name, pre .literal, pre .params, pre .constant, pre .command {
+  color: #f5871f;
+}
+pre .comment {
+  color: #8e908c;
+}
 .delete, .modal-close, .button, .file, .breadcrumb, .pagination-previous,
 .pagination-next,
 .pagination-link,
@@ -2020,8 +2029,8 @@ fieldset[disabled] .button {
 }
 
 .content figure {
-  margin-left: 2em;
-  margin-right: 2em;
+  /* margin-left: 2em;
+  margin-right: 2em; */
   /* text-align: center; */
 }
 
@@ -2062,7 +2071,7 @@ fieldset[disabled] .button {
 .content table th {
   border: 1px solid #dbdbdb;
   border-width: 0 0 1px;
-  padding: 0.5em 0.75em;
+  /* padding: 0.5em 0.75em; */
   vertical-align: top;
 }
 
