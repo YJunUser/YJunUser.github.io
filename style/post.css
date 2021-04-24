@@ -27,14 +27,6 @@
   border-radius: 4px;
   background: var(--third-bg-color); }
 
-.post-page .post-content pre {
-  padding: 0;
-  background: transparent; }
-  .post-page .post-content pre code {
-    padding: 15px;
-    border: 1px solid var(--border-line-color);
-    background: var(--pre-code-bg-color); }
-
 .post-page .post-content .hljs {
   color: var(--second-text-color); }
 
