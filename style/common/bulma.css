@@ -3105,12 +3105,12 @@ a.tag:hover {
   vertical-align: middle;
 }
 
-.title {
+/* .title {
   color: #363636;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.125;
-}
+} */
 
 .title strong {
   color: inherit;
