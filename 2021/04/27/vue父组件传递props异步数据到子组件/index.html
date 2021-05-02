@@ -15,7 +15,7 @@
 
 <p><code>created</code>里面的仍然是空值， 子组件的<code>html</code>中的<code>{{childObject.items[0]}}</code>的值虽然会随着父组件的值而改变，但是过程中会报错。</p>
 <p>是因为：<strong>首先传过来的是空，然后再异步刷新值</strong>，也就是开始时候<code>childObject.items[0]</code>等同于<code>''.item[0]</code>这样的操作，<br> 所以就会报下面的错：</p>
-<p><img src="../images/artical-image/9441048-d1a7779ec4be1599" alt="img"></p>
+<p><img src="/images/artical-image/9441048-d1a7779ec4be1599" alt="img"></p>
 <h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><ul>
 <li><p>使用<code>v-if</code>可以解决报错问题和<code>created</code>为空问题</p>
 <p>父组件<code>parent</code></p>
